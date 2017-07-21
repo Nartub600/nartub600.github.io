@@ -1,0 +1,1 @@
+webpackJsonp([0],{132:function(e,n,t){var r=t(17)(null,t(134),null,null,null);e.exports=r.exports},134:function(e,n){e.exports={render:function(){var e=this,n=e.$createElement;return(e._self._c||n)("h1",[e._v("Nuxt powered!")])},staticRenderFns:[]}}});
